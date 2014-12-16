@@ -1,0 +1,1 @@
+This is a simple collection of bash scripts I've put together. They're hardly friendly, and often taylored to my at-the-time needs. More than anything I am using this to play around with git/github - in the future I will likely add more usable projects.

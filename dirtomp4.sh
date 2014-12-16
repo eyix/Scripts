@@ -12,5 +12,4 @@ avconv -y -i "$file" -c:v libx264 -c:a libvo_aacenc `echo $file | sed 's/...$/mp
 #mv "$file" OLD
 done
 date >> log.txt
-cat log.txt | mail -s "`pwd`" brian.a.rosen@gmail.com
 
